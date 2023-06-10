@@ -5,7 +5,7 @@ This model predicts the salary of Data scientist and other similar jobs such as 
 1. Machine Learning
 2. Python
 3. Web Scrapping
-4. model production using Flask API
+4. Statistics
 
 Steps involving in building a salary prediction model for Data Science jobs using web scraping and machine learning algorithms:
 
